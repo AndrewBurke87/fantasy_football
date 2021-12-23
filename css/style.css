@@ -1,0 +1,22 @@
+body {
+  background-image: url(../image/football.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  min-height: 100%;
+  height: 200%;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+main {
+  color: brown;
+}
+img {
+  background-image: url(../image/belt.png);
+  max-width: 100%;
+  height: auto;
+}
