@@ -7,16 +7,21 @@ body {
   height: 200%;
 }
 h1 {
-  color: white;
+  color: green;
 }
 h2 {
-  color: white;
+  color: red;
 }
 main {
-  color: brown;
+  color: white;
 }
 img {
-  background-image: url(../image/belt.png);
+  background-image: url(../image/logo.png);
   max-width: 100%;
   height: auto;
+}
+#champs {
+  color: gold;
+}
+#members {
 }
