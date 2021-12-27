@@ -35,9 +35,7 @@ a:visited {
 a:hover {
   color: rebeccapurple;
 }
-#members {
-  right: auto;
-}
-#col2 {
-  right: auto;
+#member-info,
+#league-info {
+  float: left;
 }
