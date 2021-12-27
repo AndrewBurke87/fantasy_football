@@ -24,6 +24,7 @@ img {
   color: gold;
 }
 #comm {
+  color: red;
 }
 a:link {
   color: white;
@@ -33,4 +34,10 @@ a:visited {
 }
 a:hover {
   color: rebeccapurple;
+}
+#members {
+  right: auto;
+}
+#col2 {
+  right: auto;
 }
