@@ -36,6 +36,8 @@ a:hover {
   color: rebeccapurple;
 }
 #member-info,
-#league-info {
+#league-info,
+#comm-info {
   float: left;
+  margin: 150px;
 }
