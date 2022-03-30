@@ -17,7 +17,7 @@ main {
 }
 img {
   background-image: url(../image/logo.png);
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
 #champs {
